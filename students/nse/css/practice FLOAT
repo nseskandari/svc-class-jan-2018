@@ -5,9 +5,6 @@
 <head>
         <link href="css/styles.css" rel="stylesheet">
     <meta charset="UTF-8">
-    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
-    <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
-    <script src="https://code.jquery.com/jquery1.12.4.js"></script>
     <title>Noah Purifoy Outdoor Art Museum</title>
     
   
@@ -21,8 +18,7 @@
     <section class= "nav_container">
         
         <ol>
-            
-            <a href="basic-page.html" class="nav"> Homepage </i> </a>
+            <a href="basic-page.html" class="nav"> Homepage </a>
             <a href="secondpage.html" class="nav">+About the artist+</a>
             <a href="http://www.noahpurifoy.com/about-noah/" class="nav" title="Learn More about Noah"
             target="_blank">Noah's Foundation</a>

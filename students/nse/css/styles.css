@@ -1,0 +1,126 @@
+
+
+            body { 
+                 background-color: #f5e6cf;
+                 color: #523811; 
+                 font-family: Lato; Sans-serif;
+                 font-size: 14px; 
+                 }
+               
+  
+            h1 {
+                text-align: center; 
+                background-color: #c1d1ce;
+                border-bottom: 3px #93641e;
+ 
+            
+            }
+
+            a:hover { 
+                color: #93641e;
+                    }
+
+            a{
+                color: #523811;
+            }
+
+
+            .button {
+                display: inline-block;
+                background: #e8c590;
+                border: 2px solid #c1d1ce;
+                font: bold;
+                font-size: 16px; 
+                background: linear-gradient #b37b25;
+	            border-radius: 50px;
+                box-shadow: 2px; #b37b25;
+                padding: 13px 18px;
+                text-decoration: none;
+            }
+
+
+             .gallery_container {
+                justify-content: center;
+                display: flex;
+                flex-wrap: wrap;
+                
+             }
+
+             .gallery {
+                padding: 15px;
+            
+    
+                
+            }
+
+
+            .header_image {
+                display: flex;
+                justify-content: center;
+                width: 100%;
+                flex-direction: row;
+            }
+
+            .nav_container {
+                justify-content: center;
+                display: flex;
+                flex-wrap: wrap;
+                width: 100%;
+               
+            }
+
+            .nav {
+
+                display: inline-block;
+                background: #e8c590;
+                border: 2px solid #c1d1ce;
+                font: bold;
+                font-size: 14px; 
+                background: linear-gradient #b37b25;
+	            border-radius:
+                box-shadow: 2px; #b37b25;
+                text-decoration: none;
+                padding-right: 100px;
+                padding-left: 100px;
+                padding-top: 15px;
+                padding-bottom: 15px;
+                margin: 50px;
+
+            }
+
+            .NPportrait {
+                float: right;
+            }
+
+            .paragraph {
+                clear: both
+            }
+
+
+
+
+            .nav_container4 {
+                float: right;
+            }
+
+            .fas fa-adjust {
+                float: left;
+            }
+            
+
+
+           
+
+
+            
+
+           
+
+
+                
+                
+                
+        
+      
+
+               
